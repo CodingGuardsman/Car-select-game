@@ -33,6 +33,13 @@ Stores JavaScript files handling game logic, user interactions, and data managem
 Stores visual assets, including car images and icons, utilized within the game interface.
 
 ## docs/:
-Includes documentation files providing insights into game mechanics, con
+Includes documentation files providing insights into game mechanics, controls, and troubleshooting tips.
+
+## README.md:
+Offers a comprehensive overview of the project, installation instructions, gameplay guide, and contribution guidelines.
+
+## LICENSE:
+Specifies the licensing terms governing the distribution and usage.
+
 
 This repo is to store and showcase all my projects that I've done in 2023
