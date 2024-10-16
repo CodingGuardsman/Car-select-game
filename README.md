@@ -15,6 +15,9 @@ Users can compare multiple vehicles side by side, facilitating a thorough evalua
 ## Customization Options:
 Personalize your car selection experience with filtering and sorting capabilities based on criteria such as price, brand, or performance parameters.
 
+##Installation: Open index.html in your browser to start the game.
+Usage: Follow on-screen instructions to select preferences and play.
+
 # Folder Structure:
 
 ## src/:
